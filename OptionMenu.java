@@ -1,4 +1,4 @@
-package jaweriyas;
+package Corejava;
 
 /* Main Class
 @Author Yu Lin - CSCI 185 - SPRING 2015 - ATM Project */
@@ -30,7 +30,7 @@ public class Options extends Account {
 				data.put(123456780, 1230);
 				data.put(001100110, 0026);
 
-				System.out.println("Welcome to the Jaweriya's Project!");
+				System.out.println("Welcome to the Project!");
 
 				System.out.print("Enter Your Customer Number please: ");
 				setCustomerNumber(menuInput.nextInt());
