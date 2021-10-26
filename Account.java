@@ -1,7 +1,5 @@
-package jaweriyas;
+package Corejava;
 
-/* Account, Withdraw, and Deposit
-@Author Yu Lin - CSCI 185 - SPRING 2015 - ATM Project */
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
