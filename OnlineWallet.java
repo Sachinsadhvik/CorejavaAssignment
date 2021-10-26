@@ -1,4 +1,4 @@
-package jaweriyas;
+package Corejava;
 
 import java.io.IOException;
 
